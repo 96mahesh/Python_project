@@ -1,0 +1,20 @@
+Exception Handling
+
+Exception is an Evenet which will cause program termination
+
+Exceptions is Like try , except, else
+
+except ====> Execute only when Exception will occur other wise terminated
+else   ====> Execute only Exception not Occurred
+finally ===> it's always Executed Exception Occur not Occur Doesn't Matter hear
+
+
+
+File Handling / working With The Text
+====================================
+w ===> its representing writing
+r ===> its representing reading
+a ===> its representing append
+
+
+

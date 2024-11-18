@@ -1,0 +1,32 @@
+Modules and Objects
+
+Modules : collections of functions and classes (variables + Methods)
+Python file it self is a Module
+
+EX :
+1) HOW TO CREATE A MODULE
+2) HOW TO CALL FUNCTIONS FROM ONE MODULE TO ANOTHER MODULE
+3) HOW TO INVOKE SAME TWO FUNCTIONS IN 2 MODULES
+ Approach 1 : import modulename
+ Approach 2 : from modulename import functions, classes
+
+
+Package : package is collections of Modules
+
+Packages ======> Modules ======> Functions & Classes
+
+pack1 ====> Module1 ====> Functions , classes
+      ====> module2 ====> Functions , classes
+
+       pack1 ====> Module1 ====> display()
+      ====> module2 ====> show()
+
+       pack1 ====> Module1 ====> display()
+     pack1 ====>pack2 ====> module2 ====> show()
+
+Example 3
+
+package ====> Modules ====> Classes ====> Methods
+pack1 ======> emp ========> employe ====> display
+pack =======> stu ========> student ====> display
+pack =======> client
